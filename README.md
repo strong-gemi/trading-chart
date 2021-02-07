@@ -1,5 +1,8 @@
 # trading-chart
 
+
+https://github.com/tvjsx/trading-vue-js
+
 ## Project setup
 ```
 yarn install
